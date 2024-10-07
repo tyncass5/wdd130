@@ -1,0 +1,48 @@
+body {
+    background-color: steelblue;
+    padding: 300px;
+    text-align: center;
+    font-family: Arial Bold, Helvetica, sans-serif
+}
+header{
+    color: white;
+    margin: 40px;
+    font-size: 3em;
+}
+header:hover {
+    color: black;
+}
+h4 {
+    color: white;
+    text-align: center;
+    font-size: .75em;
+    font-family: 'Times New Roman', Times, serif
+}
+h3 {
+    color: white;
+    text-align: center;
+}
+img {
+    width: 30%;
+    border: 4px solid steelblue;
+    display: block;
+    margin: 0 auto;
+}
+ol{
+    text-align: left;
+    font-size: .75em;
+}
+p2 {
+    color: white;
+    text-align: center;   
+    font-size: 2.5em;
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer {
+    margin: 20px;
+    background-color: steelblue;
+    color: black;
+    text-align: center;
+    font-family: 'Arial Narrow', Arial, sans-serif
+}
