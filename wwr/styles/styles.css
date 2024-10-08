@@ -32,7 +32,7 @@ body{
     background-color: #F2F2F2;
 }
 header{
-    background-color: #2A3659;
+    background-color: rgba(42,54,89,.7);
 }
 .book, .join{
     background-color: #F28F38;
@@ -44,23 +44,26 @@ header{
     color: #2A3659;
 }
 .msg{
-    background-color: #2A3659;
+    background-color: #F28F38;
 }
 footer{
     background-color: #2A3659;
     color: #F2F2F2;;
 }
-footer a{
+footer p{
     color: #F2F2F2;
     text-decoration: none;
     font-size: 1.2em;
 }
-footer a:hover{
+footer p:hover{
     color: #F28F38;
     text-decoration: underline;
 }
 .home-title{
-    color: #F2F2F2;
+    color: black;
+}
+h4{
+    color: black;
 }
 .msg h2{
     color: #F2F2F2;
@@ -71,7 +74,7 @@ footer a:hover{
 .logo{
     width: 80px;
 }
-icon{
+.icon{
     width: 80px;
 }
 #hero-img{
