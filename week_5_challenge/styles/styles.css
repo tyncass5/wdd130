@@ -1,0 +1,16 @@
+/* dark grey #404040
+light grey #8C8C8C */
+body{
+   text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+main{
+    background-color: #8C8C8C;
+}
+main img{
+    border: 15px solid #404040;
+    border-radius: 50%;
+    width: 20%;
+    margin: 50px;
+}
